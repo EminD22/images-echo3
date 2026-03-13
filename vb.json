@@ -3,52 +3,52 @@
     {
       "id": 1,
       "name": "Kanye West",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/ye.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/ye.webp"
     },
     {
       "id": 2,
       "name": "Modjo",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/modjo.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/modjo.webp"
     },
     {
       "id": 3,
       "name": "Katy Perry",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/katyperry.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/katyperry.webp"
     },
     {
       "id": 4,
       "name": "Jay Sean",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/jaysean.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/jaysean.webp"
     },
     {
       "id": 5,
       "name": "Justin Timberlake",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/justintimberlake.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/justintimberlake.webp"
     },
     {
       "id": 6,
       "name": "50 Cent",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/50cent.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/50cent.webp"
     },
     {
       "id": 7,
       "name": "Tears for Fears",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/tearsforfear.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/tearsforfear.webp"
     },
     {
       "id": 8,
       "name": "Don Toliver",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/dontoliver.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/dontoliver.webp"
     },
     {
       "id": 9,
       "name": "America",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/america.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/america.webp"
     },
     {
       "id": 10,
       "name": "Cassie",
-      "picture": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/cassie.webp"
+      "artisturl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/cassie.webp"
     }
   ],
   
@@ -59,12 +59,12 @@
       "artistId": 1,
       "category": "Hip-Hop",
       "length": "03:57",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/flashinglights.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/flashinglights.webp",
       "audiofeatures": {
         "popularity": 90,
         "danceability": 93,
         "energy": 96,
-        "tempo": 91
+        "tempo": 38
       }
     },
     {
@@ -73,12 +73,12 @@
       "artistId": 2,
       "category": "House",
       "length": "05:07",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/lady.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/lady.webp",
       "audiofeatures": {
         "popularity": 95,
         "danceability": 89,
         "energy": 91,
-        "tempo": 126
+        "tempo": 91
       }
     },
     {
@@ -87,26 +87,26 @@
       "artistId": 3,
       "category": "Pop",
       "length": "03:56",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/californiagurls.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/californiagurls.webp",
       "audiofeatures": {
         "popularity": 97,
         "danceability": 99,
         "energy": 98,
-        "tempo": 125
+        "tempo": 89
       }
     },
     {
       "id": 4,
       "name": "Down",
       "artistId": 4,
-      "category": "Electopop",
+      "category": "Electropop",
       "length": "03:32",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/down.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/down.webp",
       "audiofeatures": {
         "popularity": 90,
         "danceability": 93,
         "energy": 96,
-        "tempo": 66
+        "tempo": 0
       }
     },
     {
@@ -115,12 +115,12 @@
       "artistId": 5,
       "category": "Pop",
       "length": "04:02",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/sexyback.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/sexyback.webp",
       "audiofeatures": {
         "popularity": 95,
         "danceability": 97,
         "energy": 98,
-        "tempo": 117
+        "tempo": 77
       }
     },
     {
@@ -129,12 +129,12 @@
       "artistId": 6,
       "category": "Hip-Hop",
       "length": "03:29",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/candyshop.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/candyshop.webp",
       "audiofeatures": {
         "popularity": 94,
         "danceability": 98,
         "energy": 96,
-        "tempo": 125
+        "tempo": 89
       }
     },
     {
@@ -143,12 +143,12 @@
       "artistId": 7,
       "category": "New Wave",
       "length": "04:51",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/ruletheworld.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/ruletheworld.webp",
       "audiofeatures": {
         "popularity": 94,
         "danceability": 85,
         "energy": 89,
-        "tempo": 112
+        "tempo": 70
       }
     },
     {
@@ -157,12 +157,12 @@
       "artistId": 8,
       "category": "Hip-Hop",
       "length": "02:33",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/e85.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/e85.webp",
       "audiofeatures": {
         "popularity": 82,
         "danceability": 87,
         "energy": 92,
-        "tempo": 132
+        "tempo": 100
       }
     },
     {
@@ -171,12 +171,12 @@
       "artistId": 9,
       "category": "Folk Rock",
       "length": "04:12",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/noname.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/noname.webp",
       "audiofeatures": {
         "popularity": 87,
         "danceability": 75,
         "energy": 79,
-        "tempo": 119
+        "tempo": 80
       }
     },
     {
@@ -185,12 +185,12 @@
       "artistId": 10,
       "category": "R&B",
       "length": "03:40",
-      "url": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/longway.webp",
+      "songurl": "https://raw.githubusercontent.com/EminD22/images-echo3/main/images/longway.webp",
       "audiofeatures": {
         "popularity": 91,
         "danceability": 90,
         "energy": 92,
-        "tempo": 105
+        "tempo": 59
       }
     }
   ]
